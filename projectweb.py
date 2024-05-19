@@ -5,6 +5,7 @@
 import streamlit as st
 import pickle
 import pandas as pd
+from sklearn.linear_model import LogisticRegression
 
 df = pd.read_csv('TTest.csv')
 def classify_satisfaction(prediction):
