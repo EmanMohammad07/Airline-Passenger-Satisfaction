@@ -1,0 +1,5 @@
+streamlit 
+ pickle 
+ pandas
+ train_test_split 
+ LogisticRegression
